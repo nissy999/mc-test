@@ -1,0 +1,14 @@
+# api requests
+requests==2.28.1
+
+# mongodb
+pymongo==4.2.0
+
+# remarks in config
+jstyleson==0.0.2
+
+# rest api
+flask==2.2.2
+
+# schedulers
+apscheduler==3.9.1
